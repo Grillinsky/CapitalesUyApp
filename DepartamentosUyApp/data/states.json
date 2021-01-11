@@ -1,0 +1,154 @@
+[
+	{
+"abbr": "AR",
+"name": "Artigas",
+"capital": "Ciudad de Artigas",
+"lat": "-30.4",
+"long": "-56.46667",
+"CP": "55000"
+	},
+	{
+"abbr": "CA",
+"name": "Canelones",
+"capital": "Ciudad de Canelones",
+"lat": "-34.52278",
+"long": "-56.27778",
+"CP": "90000"
+	},
+	{
+"abbr": "CL",
+"name": "Cerro Largo",
+"capital": "Melo",
+"lat": "-32.37028",
+"long": "-54.1675",
+"CP": "37000"
+	},
+	{
+"abbr": "CO",
+"name": "Colonia",
+"capital": "Colonia del Sacramento",
+"lat": "-34.46262",
+"long": "-57.83976",
+"CP": "70000"
+	},
+	{
+"abbr": "DU",
+"name": "Durazno",
+"capital": "Ciudad de Durazno",
+"lat": "-33.38056",
+"long": "-56.52361",
+"CP": "97000"
+	},
+	{
+"abbr": "FS",
+"name": "Flores",
+"capital": "Trinidad",
+"lat": "-33.5165",
+"long": "-56.89957",
+"CP": "85000"
+	},
+	{
+"abbr": "FD",
+"name": "Florida",
+"capital": "Ciudad de Florida",
+"lat": "-34.0955600",
+"long": "-56.2141700",
+"CP": "94000"
+	},
+	{
+"abbr": "LA",
+"name": "Lavalleja",
+"capital": "Minas",
+"lat": "-34.37589",
+"long": "-55.23771",
+"CP": "30000"
+	},
+	{
+"abbr": "MA",
+"name": "Maldonado",
+"capital": "Ciudad de Maldonado",
+"lat": "-34.9",
+"long": "-54.95",
+"CP": "20000"
+	},
+	{
+"abbr": "MO",
+"name": "Montevideo",
+"capital": "Montevideo",
+"lat": "-34.90328",
+"long": "-56.18816",
+"CP": "11000 - 12000"
+	},
+	{
+"abbr": "PA",
+"name": "Paysandú",
+"capital": "Ciudad de Paysandú",
+"lat": "-32.3171",
+"long": "-58.08072",
+"CP": "60000"
+	},
+	{
+"abbr": "RN",
+"name": "Río Negro",
+"capital": "Fray Bentos",
+"lat": "-33.11651",
+"long": "-58.31067",
+"CP": "65000"
+	},
+	{
+"abbr": "RV",
+"name": "Rivera",
+"capital": "Ciudad de Rivera",
+"lat": "-30.90534",
+"long": "-55.55076",
+"CP": "40000"
+	},
+	{
+"abbr": "RO",
+"name": "Rocha",
+"capital": "Ciudad de Rocha",
+"lat": "-34.48333",
+"long": "-54.33333",
+"CP": "27000"
+	},
+	{
+"abbr": "SA",
+"name": "Salto",
+"capital": "Ciudad de Salto",
+"lat": "-31.38333",
+"long": "-57.96667",
+"CP": "50000"
+	},
+	{
+"abbr": "SJ",
+"name": "San José",
+"capital": "San José de Mayo",
+"lat": "-34.3375",
+"long": "-56.71361",
+"CP": "80000"
+	},
+	{
+"abbr": "SO",
+"name": "Soriano",
+"capital": "Mercedes",
+"lat": "-33.2524",
+"long": "-58.03047",
+"CP": "75000"
+	},
+	{
+"abbr": "TA",
+"name": "Tacuarembó",
+"capital": "Ciudad de Tacuarembó",
+"lat": "-31.71694",
+"long": "-55.98111",
+"CP": "45000"
+	},
+	{
+"abbr": "TT",
+"name": "Treinta y Tres",
+"capital": "Ciudad de Treinta y Tres",
+"lat": "-33.23333",
+"long": "-54.38333",
+"CP": "33000"
+	}
+]
